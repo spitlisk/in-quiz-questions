@@ -104,7 +104,7 @@ Q12. After you enter text in the Q&A box or O&A visual, Power Bl will \_ your da
     [ ] sort, filter, and group
     [ ] sort and group
 
-Q13. You just deleted a dashboard in the Power Bl service and want to get it back. What should you do?
+Q13. You just deleted a dashboard in the Power BI service and want to get it back. What should you do?
 
     [X] Press Ctrl+Z. <<< proof link: https://docs.microsoft.com/en-us/power-bi/visuals/service-tips-and-tricks-for-color-formatting, https://www.edureka.co/community/26060/how-do-i-undo-something-in-power-bi
     [ ] Select Undo from the toolbar.
