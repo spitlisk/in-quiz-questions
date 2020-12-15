@@ -158,7 +158,7 @@ Q19. What tool can you use in Power Bl Desktop to reduce data?
     [ ] dashboard
     [*] data modeler
 
-Q20. What is NOT a valid data connection type for Power Bl Desktop?
+Q20. What is NOT a valid data connection type for Power BI Desktop?
 
     [ ] Azure data
     [ ] file data
