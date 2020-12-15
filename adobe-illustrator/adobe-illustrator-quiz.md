@@ -74,7 +74,7 @@ A red lines spirals clockwise in, towards the center. Arrows along the line poin
     - [ ] when you want to cut an object at existing anchor points
     - [ ] when you want to cut an object into equal pieces
     - [ ] when you want to crop an embedded or linked image
-    - [ ] when you want to quickly divide an object by drawing closed, freehand paths
+    - [x] when you want to quickly divide an object by drawing closed, freehand paths
 
 #### Q11. You have a full-color RGB document and you need to create a grayscale version that will print only on the black plate. How can you accomplish this?
 
